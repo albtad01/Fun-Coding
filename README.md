@@ -13,10 +13,10 @@ Di seguito un breve indice e i consigli per fruire al meglio i contenuti della r
 ### Lezioni
 
 1. **Lezioni 1-3:** Introduzione alla programmazione e alle basi del linguaggio C++.
-2. **Lezione 4-9:** Vettori e Strutture (struct).
+2. **Lezione 4-9:** Vettori e Strutture.
 3. **Lezioni 10-13:** Funzioni e Passaggio per Valore e per Riferimento.
 4. **Lezioni 14-21:** Puntatori e Stringhe.
-5. **Lezioni 22-24:** Ripasso C++ e Introduzione all'HTML.
+5. **Lezioni 22-24:** Introduzione all'HTML, Ripasso C++.
 
 ### Esercizi
 
@@ -31,7 +31,7 @@ Di seguito un breve indice e i consigli per fruire al meglio i contenuti della r
 - **Esercizi 9:** Dopo la Lezione 18 (Puntatori e Stringhe).
 - **Esercizi 10:** Dopo la Lezione 20 (Puntatori e Stringhe).
 - **Esercizi 11:** Dopo la Lezione 22 (HTML).
-- **Esercizi 12:** Dopo la Lezione 24 (Ripasso e HTML).
+- **Esercizi 12:** Dopo la Lezione 24 (HTML, Ripasso C++).
 
 ## Contributors
 
