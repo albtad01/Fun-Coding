@@ -12,27 +12,26 @@ Di seguito un breve indice e i consigli per fruire al meglio i contenuti della r
 
 ### Lezioni
 
-1. **Lezioni 1-2:** Introduzione alla programmazione e alle basi del linguaggio C++.
-2. **Lezione 3:** Cicli (for, while, do-while).
-3. **Lezione 4-9:** Vettori e Strutture (struct).
-4. **Lezioni 10-13:** Funzioni e Passaggio per Valore e per Riferimento.
-5. **Lezioni 14-21:** Puntatori e Stringhe.
-6. **Lezioni 22-24:** Ripasso C++ e Introduzione all'HTML.
+1. **Lezioni 1-3:** Introduzione alla programmazione e alle basi del linguaggio C++.
+2. **Lezione 4-9:** Vettori e Strutture (struct).
+3. **Lezioni 10-13:** Funzioni e Passaggio per Valore e per Riferimento.
+4. **Lezioni 14-21:** Puntatori e Stringhe.
+5. **Lezioni 22-24:** Ripasso C++ e Introduzione all'HTML.
 
 ### Esercizi
 
-- **Esercizi 1:** Dopo la Lezione 5 (Cicli).
+- **Esercizi 1:** Dopo la Lezione 5 (Vettori e Strutture).
 - **Esercizi 2:** Dopo la Lezione 6 (Vettori e Strutture).
 - **Esercizi 3:** Dopo la Lezione 8 (Funzioni).
 - **Esercizi 4:** Dopo la Lezione 9 (Funzioni).
-- **Esercizi 5:** Dopo la Lezione 10 (Puntatori e Stringhe).
-- **Esercizi 6:** Dopo la Lezione 14 (Puntatori e Stringhe).
+- **Esercizi 5:** Dopo la Lezione 10 (Funzioni).
+- **Esercizi 6:** Dopo la Lezione 14 (Funzioni, Puntatori e Stringhe).
 - **Esercizi 7:** Dopo la Lezione 15 (Puntatori e Stringhe).
 - **Esercizi 8:** Dopo la Lezione 16 (Puntatori e Stringhe).
 - **Esercizi 9:** Dopo la Lezione 18 (Puntatori e Stringhe).
 - **Esercizi 10:** Dopo la Lezione 20 (Puntatori e Stringhe).
-- **Esercizi 11:** Dopo la Lezione 22 (Ripasso C++ e HTML).
-- **Esercizi 12:** Dopo la Lezione 24 (Ripasso C++ e HTML).
+- **Esercizi 11:** Dopo la Lezione 22 (HTML).
+- **Esercizi 12:** Dopo la Lezione 24 (Ripasso e HTML).
 
 ## Contributors
 
