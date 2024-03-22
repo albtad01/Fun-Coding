@@ -21,15 +21,15 @@ Di seguito un breve indice e i consigli per fruire al meglio i contenuti della r
 
 ### Esercizi
 
-- **Esercitazione 1:** Dopo la Lezione 5 (Cicli).
-- **Esercitazione 2:** Dopo la Lezione 6 (Vettori e Strutture).
-- **Esercitazione 3:** Dopo la Lezione 8 (Funzioni).
-- **Esercitazione 4:** Dopo la Lezione 9 (Funzioni).
-- **Esercitazione 5:** Dopo la Lezione 10 (Puntatori e Stringhe).
-- **Esercitazione 6:** Dopo la Lezione 14 (Puntatori e Stringhe).
-- **Esercitazione 7:** Dopo la Lezione 15 (Puntatori e Stringhe).
-- **Esercitazione 8:** Dopo la Lezione 16 (Puntatori e Stringhe).
-- **Esercitazione 9:** Dopo la Lezione 18 (Puntatori e Stringhe).
-- **Esercitazione 10:** Dopo la Lezione 20 (Puntatori e Stringhe).
-- **Esercitazione 11:** Dopo la Lezione 22 (Ripasso C++ e HTML).
-- **Esercitazione 12:** Dopo la Lezione 24 (Ripasso C++ e HTML).
+- **Esercizi 1:** Dopo la Lezione 5 (Cicli).
+- **Esercizi 2:** Dopo la Lezione 6 (Vettori e Strutture).
+- **Esercizi 3:** Dopo la Lezione 8 (Funzioni).
+- **Esercizi 4:** Dopo la Lezione 9 (Funzioni).
+- **Esercizi 5:** Dopo la Lezione 10 (Puntatori e Stringhe).
+- **Esercizi 6:** Dopo la Lezione 14 (Puntatori e Stringhe).
+- **Esercizi 7:** Dopo la Lezione 15 (Puntatori e Stringhe).
+- **Esercizi 8:** Dopo la Lezione 16 (Puntatori e Stringhe).
+- **Esercizi 9:** Dopo la Lezione 18 (Puntatori e Stringhe).
+- **Esercizi 10:** Dopo la Lezione 20 (Puntatori e Stringhe).
+- **Esercizi 11:** Dopo la Lezione 22 (Ripasso C++ e HTML).
+- **Esercizi 12:** Dopo la Lezione 24 (Ripasso C++ e HTML).
