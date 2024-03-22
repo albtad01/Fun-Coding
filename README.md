@@ -33,3 +33,7 @@ Di seguito un breve indice e i consigli per fruire al meglio i contenuti della r
 - **Esercizi 10:** Dopo la Lezione 20 (Puntatori e Stringhe).
 - **Esercizi 11:** Dopo la Lezione 22 (Ripasso C++ e HTML).
 - **Esercizi 12:** Dopo la Lezione 24 (Ripasso C++ e HTML).
+
+## Contributors
+
+- [Alberto Taddei](https://github.com/albtad01)
